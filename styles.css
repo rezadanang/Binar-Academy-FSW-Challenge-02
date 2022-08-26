@@ -209,6 +209,21 @@ a:hover{
             padding-left: 0px !important;
             padding-right: 0px !important;
         }
+        .text-why-us{
+            text-align: center;
+        }
+
+        .why-us-card{
+            width: 320px;
+            height: 190px;
+        }
+        .list-group-item{
+            padding: 0px !important;
+        }
+        /* FAQ */
+        .text-faq{
+            text-align: center;
+        }
 
         /* OUR SERVICES */
 
