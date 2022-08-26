@@ -1,2 +1,2 @@
-# Binar-Academy-FSW-Challenge-02
-Tugas Challenge Chapter 2
+# Binar-Academy-FSW-Challenge
+Tugas Challenge dari Binar Academy yaitu membuat sebuah website static
